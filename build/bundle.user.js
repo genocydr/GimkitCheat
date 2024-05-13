@@ -20070,7 +20070,7 @@
 		let slider0_props = {
 			title: "Speedup Amount",
 			min: 1,
-			max: /*maxSpeedupMultiplier*/ ctx[6],
+			max: /*maxSpeedupMultiplier*/ ctx[10],
 			step: 0.005
 		};
 
@@ -20108,7 +20108,7 @@
 		let slider1_props = {
 			title: "Jump Boost Amount",
 			min: 1,
-			max: /*maxSpeedupMultiplier*/ ctx[6],
+			max: /*maxSpeedupMultiplier*/ ctx[10],
 			step: 0.005
 		};
 
